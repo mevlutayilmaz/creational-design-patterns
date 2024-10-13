@@ -7,6 +7,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SingletonDesingPattern", "S
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreationalDesignPatterns.SingletonDesignPattern.Example1", "SingletonDesignPattern\CreationalDesignPatterns.SingletonDesignPattern.Example1\CreationalDesignPatterns.SingletonDesignPattern.Example1.csproj", "{4EC62B4E-6741-41CC-879F-08BBD4B41739}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreationalDesignPatterns.SingletonDesignPattern.Example2", "SingletonDesignPattern\CreationalDesignPatterns.SingletonDesignPattern.Example2\CreationalDesignPatterns.SingletonDesignPattern.Example2.csproj", "{CD188EC2-E164-46D3-9BC1-FB927C1D2FA1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,12 +19,17 @@ Global
 		{4EC62B4E-6741-41CC-879F-08BBD4B41739}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4EC62B4E-6741-41CC-879F-08BBD4B41739}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4EC62B4E-6741-41CC-879F-08BBD4B41739}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD188EC2-E164-46D3-9BC1-FB927C1D2FA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD188EC2-E164-46D3-9BC1-FB927C1D2FA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD188EC2-E164-46D3-9BC1-FB927C1D2FA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD188EC2-E164-46D3-9BC1-FB927C1D2FA1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{4EC62B4E-6741-41CC-879F-08BBD4B41739} = {C093A777-E53C-4860-8F0C-5C899B801D1D}
+		{CD188EC2-E164-46D3-9BC1-FB927C1D2FA1} = {C093A777-E53C-4860-8F0C-5C899B801D1D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {DF793A51-C238-47B2-81BA-538E0419D11E}

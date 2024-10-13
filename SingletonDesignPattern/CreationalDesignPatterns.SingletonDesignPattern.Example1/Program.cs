@@ -14,7 +14,7 @@ class Example1
 {
     private Example1()
     {
-        Console.WriteLine($"{nameof(Example1)} nesnesi oluşturuldu.");
+        Console.WriteLine($"{nameof(Example1)} is created.");
     }
 
     static Example1 _example1;
@@ -36,7 +36,7 @@ class Example2
 {
     private Example2()
     {
-        Console.WriteLine($"{nameof(Example2)} nesnesi oluşturuldu.");
+        Console.WriteLine($"{nameof(Example2)} is created.");
     }
 
     static Example2 _example2;
