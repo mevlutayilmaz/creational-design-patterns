@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreationalDesignPatterns.Fa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreationalDesignPatterns.FactoryMethodDesignPattern.Example3", "FactoryMethodDesignPattern\CreationalDesignPatterns.FactoryMethodDesignPattern.Example3\CreationalDesignPatterns.FactoryMethodDesignPattern.Example3.csproj", "{747D2C58-D3C4-4389-B2C6-86791E0CABA9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreationalDesignPatterns.FactoryMethodDesignPattern.Example4", "FactoryMethodDesignPattern\CreationalDesignPatterns.FactoryMethodDesignPattern.Example4\CreationalDesignPatterns.FactoryMethodDesignPattern.Example4.csproj", "{C4851099-E634-4371-8FFE-BE945C0D7A7C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{747D2C58-D3C4-4389-B2C6-86791E0CABA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{747D2C58-D3C4-4389-B2C6-86791E0CABA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{747D2C58-D3C4-4389-B2C6-86791E0CABA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4851099-E634-4371-8FFE-BE945C0D7A7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4851099-E634-4371-8FFE-BE945C0D7A7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4851099-E634-4371-8FFE-BE945C0D7A7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4851099-E634-4371-8FFE-BE945C0D7A7C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -69,6 +75,7 @@ Global
 		{D307342F-A5FF-407A-A6BF-934929F76D57} = {6A4A7981-5B33-44E5-A2E9-B6399B951121}
 		{4A780950-96FB-4766-89C1-F06272696AE2} = {6A4A7981-5B33-44E5-A2E9-B6399B951121}
 		{747D2C58-D3C4-4389-B2C6-86791E0CABA9} = {6A4A7981-5B33-44E5-A2E9-B6399B951121}
+		{C4851099-E634-4371-8FFE-BE945C0D7A7C} = {6A4A7981-5B33-44E5-A2E9-B6399B951121}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {DF793A51-C238-47B2-81BA-538E0419D11E}
