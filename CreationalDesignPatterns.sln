@@ -5,15 +5,19 @@ VisualStudioVersion = 17.10.35027.167
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SingletonDesingPattern", "SingletonDesingPattern", "{C093A777-E53C-4860-8F0C-5C899B801D1D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreationalDesignPatterns.SingletonDesignPattern.Example1", "SingletonDesignPattern\CreationalDesignPatterns.SingletonDesignPattern.Example1\CreationalDesignPatterns.SingletonDesignPattern.Example1.csproj", "{4EC62B4E-6741-41CC-879F-08BBD4B41739}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CreationalDesignPatterns.SingletonDesignPattern.Example1", "SingletonDesignPattern\CreationalDesignPatterns.SingletonDesignPattern.Example1\CreationalDesignPatterns.SingletonDesignPattern.Example1.csproj", "{4EC62B4E-6741-41CC-879F-08BBD4B41739}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreationalDesignPatterns.SingletonDesignPattern.Example2", "SingletonDesignPattern\CreationalDesignPatterns.SingletonDesignPattern.Example2\CreationalDesignPatterns.SingletonDesignPattern.Example2.csproj", "{CD188EC2-E164-46D3-9BC1-FB927C1D2FA1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CreationalDesignPatterns.SingletonDesignPattern.Example2", "SingletonDesignPattern\CreationalDesignPatterns.SingletonDesignPattern.Example2\CreationalDesignPatterns.SingletonDesignPattern.Example2.csproj", "{CD188EC2-E164-46D3-9BC1-FB927C1D2FA1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreationalDesignPatterns.SingletonDesignPattern.Example3", "SingletonDesignPattern\CreationalDesignPatterns.SingletonDesignPattern.Example3\CreationalDesignPatterns.SingletonDesignPattern.Example3.csproj", "{8B5F3F31-D308-4070-85F5-B1E214003F47}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CreationalDesignPatterns.SingletonDesignPattern.Example3", "SingletonDesignPattern\CreationalDesignPatterns.SingletonDesignPattern.Example3\CreationalDesignPatterns.SingletonDesignPattern.Example3.csproj", "{8B5F3F31-D308-4070-85F5-B1E214003F47}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MultitonDesignPattern", "MultitonDesignPattern", "{0671547A-A799-4980-B236-4919C14F0979}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreationalDesignPatterns.MultitonDesignPattern", "MultitonDesignPattern\CreationalDesignPatterns.MultitonDesignPattern\CreationalDesignPatterns.MultitonDesignPattern.csproj", "{79B8B98C-7D4F-41AE-A47C-55BC0F755AA0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CreationalDesignPatterns.MultitonDesignPattern", "MultitonDesignPattern\CreationalDesignPatterns.MultitonDesignPattern\CreationalDesignPatterns.MultitonDesignPattern.csproj", "{79B8B98C-7D4F-41AE-A47C-55BC0F755AA0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FactoryMethodDesignPattern", "FactoryMethodDesignPattern", "{6A4A7981-5B33-44E5-A2E9-B6399B951121}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreationalDesignPatterns.FactoryMethodDesignPattern.Example1", "FactoryMethodDesignPattern\CreationalDesignPatterns.FactoryMethodDesignPattern.Example1\CreationalDesignPatterns.FactoryMethodDesignPattern.Example1.csproj", "{D307342F-A5FF-407A-A6BF-934929F76D57}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -37,6 +41,10 @@ Global
 		{79B8B98C-7D4F-41AE-A47C-55BC0F755AA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{79B8B98C-7D4F-41AE-A47C-55BC0F755AA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{79B8B98C-7D4F-41AE-A47C-55BC0F755AA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D307342F-A5FF-407A-A6BF-934929F76D57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D307342F-A5FF-407A-A6BF-934929F76D57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D307342F-A5FF-407A-A6BF-934929F76D57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D307342F-A5FF-407A-A6BF-934929F76D57}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -46,6 +54,7 @@ Global
 		{CD188EC2-E164-46D3-9BC1-FB927C1D2FA1} = {C093A777-E53C-4860-8F0C-5C899B801D1D}
 		{8B5F3F31-D308-4070-85F5-B1E214003F47} = {C093A777-E53C-4860-8F0C-5C899B801D1D}
 		{79B8B98C-7D4F-41AE-A47C-55BC0F755AA0} = {0671547A-A799-4980-B236-4919C14F0979}
+		{D307342F-A5FF-407A-A6BF-934929F76D57} = {6A4A7981-5B33-44E5-A2E9-B6399B951121}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {DF793A51-C238-47B2-81BA-538E0419D11E}
