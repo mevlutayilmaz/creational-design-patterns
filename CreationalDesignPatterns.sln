@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreationalDesignPatterns.Ab
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreationalDesignPatterns.AbstractFactoryDesignPattern.Example2", "AbstractFactoryDesignPattern\CreationalDesignPatterns.AbstractFactoryDesignPattern.Example2\CreationalDesignPatterns.AbstractFactoryDesignPattern.Example2.csproj", "{15B17C6C-F25E-4BAD-9C27-5F5D5DDFE415}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreationalDesignPatterns.AbstractFactoryDesignPattern.Example3", "AbstractFactoryDesignPattern\CreationalDesignPatterns.AbstractFactoryDesignPattern.Example3\CreationalDesignPatterns.AbstractFactoryDesignPattern.Example3.csproj", "{4061C85A-A77D-44DD-9B97-BAFCD742FDC3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -83,6 +85,10 @@ Global
 		{15B17C6C-F25E-4BAD-9C27-5F5D5DDFE415}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{15B17C6C-F25E-4BAD-9C27-5F5D5DDFE415}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{15B17C6C-F25E-4BAD-9C27-5F5D5DDFE415}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4061C85A-A77D-44DD-9B97-BAFCD742FDC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4061C85A-A77D-44DD-9B97-BAFCD742FDC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4061C85A-A77D-44DD-9B97-BAFCD742FDC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4061C85A-A77D-44DD-9B97-BAFCD742FDC3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -99,6 +105,7 @@ Global
 		{8DA4F9B5-AB73-4F1D-832C-E3F178601724} = {6A4A7981-5B33-44E5-A2E9-B6399B951121}
 		{A9E310C9-5740-4E19-A8D8-14796898FA71} = {2A58A1DF-DF54-41F4-84DA-7F4467B49109}
 		{15B17C6C-F25E-4BAD-9C27-5F5D5DDFE415} = {2A58A1DF-DF54-41F4-84DA-7F4467B49109}
+		{4061C85A-A77D-44DD-9B97-BAFCD742FDC3} = {2A58A1DF-DF54-41F4-84DA-7F4467B49109}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {DF793A51-C238-47B2-81BA-538E0419D11E}
