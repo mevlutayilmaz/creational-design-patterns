@@ -1,0 +1,6 @@
+@CreationalDesignPatterns.ObjectPoolDesignPattern.Example5_HostAddress = http://localhost:5054
+
+GET {{CreationalDesignPatterns.ObjectPoolDesignPattern.Example5_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
